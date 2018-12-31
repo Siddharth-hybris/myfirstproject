@@ -3,4 +3,7 @@ Secon textSecon textSecon textSecon textSecon textSecon textSecon textSecon text
 
 why this file..I am asking whythis file  ???
 
+
+I am facing someproblemwhile committing a file 
+
 textSecon textSecon textSecon textSecon textSecon textSecon text

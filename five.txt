@@ -1,0 +1,14 @@
+To work with GitHub you need:
+Register an  GitHub account and create a repository (GitHub Repository).
+Install GitHub Desktop , an intuitive tool to manage Local Repository (local data repository).
+Configure to synchronize data with the GitHub  desktop onto Repository server.
+
+To work with GitHub you need:
+Register an  GitHub account and create a repository (GitHub Repository).
+Install GitHub Desktop , an intuitive tool to manage Local Repository (local data repository).
+Configure to synchronize data with the GitHub  desktop onto Repository server.
+
+To work with GitHub you need:
+Register an  GitHub account and create a repository (GitHub Repository).
+Install GitHub Desktop , an intuitive tool to manage Local Repository (local data repository).
+Configure to synchronize data with the GitHub  desktop onto Repository server.
